@@ -2,8 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
-
+**URL**: https://book-my-show-web.lovable.app
 ## How can I edit this code?
 
 There are several ways of editing your application.
@@ -27,7 +26,7 @@ Follow these steps:
 git clone <YOUR_GIT_URL>
 
 # Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+cd <Book_My_Show_Web_App>
 
 # Step 3: Install the necessary dependencies.
 npm i
