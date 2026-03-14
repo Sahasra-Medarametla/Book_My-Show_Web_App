@@ -23,7 +23,7 @@ Follow these steps:
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+git clone <(https://github.com/Sahasra-Medarametla/Book_My-Show_Web_App.git)>
 
 # Step 2: Navigate to the project directory.
 cd <Book_My_Show_Web_App>
