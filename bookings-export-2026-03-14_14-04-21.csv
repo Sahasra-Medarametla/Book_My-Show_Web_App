@@ -1,0 +1,2 @@
+id;user_id;movie_id;seats;total_amount;status;show_date;show_time;theater_name;payment_id;created_at;updated_at
+2a7b8a59-74cd-4c7d-b8dd-9e4762975be1;ff42f93f-c609-4e13-9c90-4765094ea5f3;e2dc3ce0-895c-4e52-b6ac-1eb873d267de;2;500.00;pending;2026-03-15;10:00 AM;PVR Cinemas - Phoenix Mall;;2026-03-14 07:41:51.606077+00;2026-03-14 07:41:51.606077+00
